@@ -1,2 +1,2 @@
 # scan_result.txt
-The TCP SYN scan (-sS ) detected two active hosts in the network.They are: 1)the first host has port 53 open, indicating it is running a DNS service and 2)the second host has ports 135(MSRPC) open which are commonly associated with windows services and file sharing.
+Through this task, I gained hands- on experience in running a vulnerability scan, analysing the results, and identifying potential risk on my PC. i also learned how to document findings and propose mitigation for issues like SMB signing misconfiguration, SSL weaknesses, and unnecessary service exposure.
